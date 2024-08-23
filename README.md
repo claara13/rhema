@@ -1,4 +1,4 @@
-# rhema
+# Rhema
  
 # Projeto Leitura Bíblica com IA - API com Gemini
 
@@ -57,7 +57,7 @@ Contribuições são bem-vindas. Sinta-se à vontade para fazer um fork do repos
 
 - [Rafael Ribas]: Instrutor de Programação Web Front-End.
 
-- [João Paulo]: Instrutor de Programação Web Back-End. -
+- [João Paulo]: Instrutor de Programação Web Back-End.
 
 ---
 
